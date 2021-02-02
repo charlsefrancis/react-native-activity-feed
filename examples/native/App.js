@@ -17,17 +17,17 @@ const App = () => {
   const token = STREAM_API_TOKEN;
 
   if (!apiKey) {
-    console.error('STREAM_API_KEY should be set');
+    console.error('jkndykrr7cepdnp5q8kyghrjjbbdgj8hrntn8n7jjwabqyh53axgj3h5h3kegp32');
     return null;
   }
 
   if (!appId) {
-    console.error('STREAM_APP_ID should be set');
+    console.error('108274');
     return null;
-  }
+  }o ok
 
   if (!token) {
-    console.error('STREAM_TOKEN should be set');
+    console.error('wucygnes5bma');
     return null;
   }
 
